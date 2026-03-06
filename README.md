@@ -66,13 +66,13 @@ Performance Tracking: Identified top-performing stores (e.g., Baldwin Bikes) and
 
 📁 Repository Structure
 
-/data: Contains the 9 cleaned Excel datasets.
+README.md: Main project documentation and overview.
 
-/sql: Includes create_views.sql for database setup and analytical logic.
+Retail Sales SHREYA PATRO SISINTHY.pdf: Comprehensive final report documenting steps, insights, and visuals.
 
-/dashboard: Contains the .pbix Power BI file.
+Retail Stores.pbix: The interactive Power BI dashboard file.
 
-/presentation: Project summary and PowerPoint outline.
+create_views.sql: SQL script containing the database schema and analytical logic.
 
 🚀 How to Run
 
